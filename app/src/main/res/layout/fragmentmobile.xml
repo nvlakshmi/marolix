@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mobile1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Marolix Technology Solutions is one of the best enterprise mobile application development company in India. Our expertise lies in building  Android and iOS applications supported by a strong cloud based backend infrastructure.
+
+Mobile apps have become a need rather than a luxury. We are technology leaders in the space of mobile applications development.  We are expertized in the development of mobile apps for B2B, B2C  B2E business environment. The range of our multi-platform mobile apps services fit everyone, from large enterprises  government to small medium businesses. We have developed numerous mobile apps for different sectors ranging from healthcare to entertainment. We have delivered high-quality products with 100% customer satisfaction. We strive to serve our client’s the best mobile applications. We differentiate ourselves with other mobile apps development companies in India in terms of delivering a high-quality product with world-class UI/UX."/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mobile2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="IOS/IPAD/IPHONE APPS DEVELOPMENT
+Being one of the mobile application development organization in Hyderabad, we create iphone and ipad packages with an expectation to amplify your business execution. before constructing up an application, we direct intensive research in your software goal, your opponents’programs investigation. this is the motive we are referred to as as excellent as compared to other ios software designers in Hyd, india.
+
+we’re a confided in the portal in your commercial enterprise to make android and ios (ipad and iphone) packages on the reasonable fee to build your commercial enterprise earnings. we’ve got gifted, ingenious and experienced android and ios software designers and builders."/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mobile4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ANDROID APPS DEVELOPMENT
+we make android programs for various commercial enterprise verticals. we’re a great decision of 500+ companies that contain net-based commercial enterprise businesses, social insurance institutions, and journey workplaces, and so forth. we create super utility applications, endeavor applications, diversion programs, primary deliver applications, and sustenance soliciting for packages at a mild price. with experienced java engineers, we make absolutely realistic android applications which are consistent on all devices.
+
+we intentionally display android application development with help programming that envelops debuggers, outer libraries, database administration frameworks, which doesn’t simply add dynamic highlights to the software but, further, makes it energizing and exciting tothe cease purchaser. we absolutely use android software improvement gadget that may be a package deal of outside innovations like c, c++, 2nd and three-D photographs utility programming interface (api), gps empowered administrations, and diversion motor help."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

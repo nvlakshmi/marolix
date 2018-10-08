@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketing1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Marolix offer virtual advertising  promoting offerings which drives extra audiences in your website. this allows to reach extra clients via our corporation services and its enables to capture greater audiences. Marolix software plays every and every pastime in digital marketing carrier like social media advertising (smm), search engine optimization (search engine optimization), e-mail advertising and marketing, search engine advertising (sem), adwords (%), social media optimization (smo) etc, to enhance the view capable of your website in all search engines like google and yahoo networks.
+
+Marolix have over five years of expertise in our services and we’ve got served purchaser from distinct companies find it irresistible, hospitality, production, education, and retail. we’re updating our self inside the subject of digital advertising and marketing along side its phrases. so it facilitates us to enhance consumer’s interactions and brings greater precious audiences. so our predominant goal is to make ideal clients on your enterprise.."/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketin3"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Search Engine Optimization(SEO)
+
+website design improvement remains for web page optimization. it is the way towards getting motion from the unfastened, natural, article or ordinary question objects on internet indexes.
+
+"/>
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketin4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Search Engine Marketing(SEM)
+
+our team works carefully with business enterprise account managers to make sure your account plays as strongly as feasible.
+
+"/>
+
+"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketin5"></ImageView>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Social media Optimization(SMO)
+
+we cognizance on helping you maximize the performance of your business with behaviorally targeted, caused communications."/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketing6"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Social Media Marketing(SMM)
+
+social media opens a direct line of verbal exchange with your enterprise and your potential clients.social media advertising is a effective manner to relate up near and private along with your customers."/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/marketing7"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Google Adwords
+
+we’ve brief-term and lengthy-term designs available for google advert words as your commercial enterprise necessities.
+
+"/>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

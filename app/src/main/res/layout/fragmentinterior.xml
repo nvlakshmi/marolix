@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/int1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Marolix the pioneer in providing the interior designing services all over the Hyderabad. Our interior designing works are outstanding and offer the magnificent view. Our expert designers are perfectly trained well acquainted with all sorts of modern interior designing. They have innovative ideas, and they always try to provide unique Interior Decoration for your home interior.
+
+If you want to hire a best interior designers in Hyderabad,we provide computer imaging that can offer you a preview of your commercial residence interior designing. Our special designer team contacts with you in regular interval time and describe briefly regarding the design.
+
+we are the Best Interior Designers In Hyderabad in providing virtual reality services .
+
+Our company Marolix is a Hyderabad Top Interior Designing Company and got many awards from our client for our faultless trendy designing services. We use advanced equipment for your home interior designing that offer more perfection in our work.We never compromise with quality and customer happiness is our success, and we always try to do so."/>
+        </LinearLayout></ScrollView></LinearLayout>

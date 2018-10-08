@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="MainActivity">
+
+    <FrameLayout
+        android:id="@+id/frame1"
+        android:layout_width="match_parent"
+        android:background="#ff0000"
+        android:layout_height="230dp"/>
+
+    <FrameLayout
+        android:id="@+id/frame2"
+        android:layout_width="match_parent"
+        android:background="#ffff00"
+        android:layout_height="230dp"/>
+    <FrameLayout
+        android:id="@+id/frameweb"
+        android:layout_width="match_parent"
+        android:background="#ff0000"
+        android:layout_height="230dp"/>
+
+
+    <FrameLayout
+        android:id="@+id/frame1marketing"
+        android:layout_width="match_parent"
+        android:background="#ff0000"
+        android:layout_height="230dp"/>
+
+    <FrameLayout
+        android:id="@+id/framemobile"
+        android:layout_width="match_parent"
+        android:background="#ffff00"
+        android:layout_height="230dp"/>
+
+
+
+    <FrameLayout
+        android:id="@+id/frameinterior"
+        android:layout_width="match_parent"
+        android:background="#ff0000"
+        android:layout_height="230dp"/>
+
+    <FrameLayout
+        android:id="@+id/frame3d"
+        android:layout_width="match_parent"
+        android:background="#ffff00"
+        android:layout_height="230dp"/>
+    <FrameLayout
+        android:id="@+id/framecontacts"
+        android:layout_width="match_parent"
+        android:background="#ffff00"
+        android:layout_height="230dp"/>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+

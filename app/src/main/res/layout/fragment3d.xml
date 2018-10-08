@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/add"/>
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="CAE
+
+
+Computer-aided engineering (CAE) is the process of solving engineering problems through the use of sophisticated, interactive graphical software.
+
+CAE is one of the leading softwares employed by manufacturing organizations to mass produce products in a factory-based environment. It allows for more computations than is possible by hand, especially when it is coupled with optimization systems.
+
+The process starts by first defining the analysis of the mathematical phenomenon. Next, the equations have to be defined. Finally, a model of physical configuration is created.This model may consist of 2-D or 3-D figures/shapes/curves/surfaces. This model is than applied to an actual production mechanism to design and develop the product.
+
+Computer aided engineering is complemented by computer-aided design and computer-aided manufacturing"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/add1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INNOVATION IS KEY
+With 2 years of deep learning and research, We launched our First 3D Printer “Manprotto One” which is Robust, Affordable with Great Product Design. After Hyderabad, We started expanding our Services and Products to Pan India to major cities in like Chennai, Bangalore, Trichy, Coimbatore, Mumbai, Calcutta, Delhi, Ahmedabad and Pune.
+
+3D Printing or Additive Manufacturing is a Technology which Brought Manufacturing to Home. Just Imagine! A Machine Connected to your Computer Can Print Solid Objects. They said its future.But We are already there and Proud to be Part of this Next Generation Technology ‘3D Printing’ ”
+
+“Keep Supporting us and lets together take 3D Printing to every hands of India"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/add2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3D PRINTING AND CAD SERVICES
+Why Marolix ?
+Marolix mechanical engineering solutions were started with the idea of providing cost effective designs and stay competitive in the market.
+
+We will provide support to clients starting from conceptual design stage to prototyping/product launch. Our top priority is working towards creative innovations, timeline delivery.
+
+Design  manufacturing
+Mechanical design
+
+3D printing  additive manufacturing
+
+
+
+3D Scanning
+
+
+We at Marolix mechanical engineering solutions are taking steps to gain knowledge and become expertise in Scanning methods and technologies, Reverse engineering, CAD modeling and design optimization."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
